@@ -1,0 +1,24 @@
+123.456.002
+321.654.018
+C3C9
+abdullah mehdi
+Tikka Pizza,3,3900,Vegetable Pizza,5,8000,Vegetable Pizza,3,4800,
+
+123.456.002
+321.654.009
+K4Z6
+mansoor rehman
+Vegetable Pizza,1234567890,-376332160,Italian Pizza,123456789,-576856204,Vegetable Pizza,1234567890,-376332160,
+
+123.456.002
+
+I5K8
+hafif ashiq
+Tikka Pizza,3,3900,Fajita Pizza,2,3600,Pepperoni Pizza,5,7500,Fajita Pizza,2,3600,Pepperoni Pizza,5,7500,Fajita Pizza,2,3600,Pepperoni Pizza,5,7500,
+
+123.456.002
+321.654.018
+D9Q1
+abdullah mehdi
+Italian Pizza,234,397800,Tikka Pizza,12312312,-1173863584,Vegetable Pizza,123213,197140800,
+

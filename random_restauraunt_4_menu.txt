@@ -1,0 +1,5 @@
+The Hamburger,700,
+Bagel and Lox,400,
+Texas Barbecue,500,
+Clam Chowder,650,
+Deep-Dish Pizza,850,

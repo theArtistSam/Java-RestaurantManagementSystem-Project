@@ -1,0 +1,5 @@
+Italian Pizza,1700,
+Pepperoni Pizza,1500,
+Tikka Pizza,1300,
+Fajita Pizza,1800,
+Vegetable Pizza,1600,

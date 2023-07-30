@@ -1,0 +1,8 @@
+Hot and Sour Soup,200,
+Chicken Corn Soup,220,
+Chicken Salsa Soup,250,
+Special Corn Soup,300,
+Vegetable Corn Soup,270,
+Something Special,300,
+Soup for fall,450,
+Sam's favourite,600,

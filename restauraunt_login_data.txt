@@ -1,0 +1,16 @@
+name: Soup Restaurant
+Password: soup@1234
+IP: 123.456.001
+
+name: Pizza Restaurant
+Password: pizza@1234
+IP: 123.456.002
+
+name: Desi Restaurant
+Password: desi@1234
+IP: 123.456.003
+
+name: American Food
+Password: american@1234
+IP: 123.456.004
+

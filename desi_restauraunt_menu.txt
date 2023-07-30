@@ -1,0 +1,5 @@
+Chicken Karahi,1000,
+Chicken Chest Piece,220,
+Chicken Leg Piece,200,
+Chicken Tikka,150,
+Chicken Seekh Kabab,130,

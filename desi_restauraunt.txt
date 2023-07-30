@@ -1,0 +1,12 @@
+123.456.003
+321.654.018
+U0H8
+abdullah mehdi
+Chicken Chest Piece,2,440,Chicken Tikka,4,600,Chicken Leg Piece,3,600,Chicken Leg Piece,1,200,
+
+123.456.003
+321.654.018
+S6Y3
+abdullah mehdi
+Chicken Tikka,4,600,New One,6,1800,Chicken Seekh Kabab,3,390,Chicken Seekh Kabab,5,650,Another One ,3,1200,
+
