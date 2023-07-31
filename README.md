@@ -43,7 +43,7 @@ The system provides an efficient and user-friendly interface to manage restauran
 
 ```bash
 git clone https://github.com/theArtistSam/Java-RestaurantManagementSystem-Project.git
-cd restaurant-management-system
+cd Java-RestaurantManagementSystem-Project
 javac Main.java
 java Main
 ```
